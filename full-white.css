@@ -1,0 +1,51 @@
+/* FULL WHITE PREMIUM THEME */
+
+body {
+    background: #F8F9FA;
+    font-family: 'Poppins', sans-serif;
+    color: #1c1c1c;
+}
+
+/* HEADER */
+.top-nav {
+    background: #ffffff;
+    padding: 18px 60px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 4px 25px rgba(0,0,0,0.08);
+}
+
+/* HERO */
+.hero {
+    height: 70vh;
+    background: url("assets/hero.jpg") center/cover no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 60px;
+    color: white;
+    text-shadow: 0 3px 10px rgba(0,0,0,0.4);
+}
+
+/* BLOG CARDS */
+.blog-card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    transition: .3s;
+}
+
+.blog-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 40px rgba(0,0,0,0.12);
+}
+
+/* FOOTER */
+footer {
+    background: #fff;
+    padding: 40px;
+    text-align: center;
+    color: #666;
+    border-top: 1px solid #eee;
+}
