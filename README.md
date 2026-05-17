@@ -15,7 +15,7 @@ This is a simple responsive blog website built with HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-Add your GitHub Pages link here.
+ https://github.com/najiruddinbd/blogsite/
 
 ## Author
 Najir Uddin
